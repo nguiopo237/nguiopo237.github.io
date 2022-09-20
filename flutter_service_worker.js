@@ -3,19 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "528ab86bf343f86468b95007824db872",
+  "assets/AssetManifest.json": "34dda0fa394290d483144f1a3db32f66",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/images/cartegif.gif": "3e39ba8e4b119deec3fbbd50b2b9274d",
 "assets/images/etoile.jpg": "d2969555071a5e3c03618e271e8419fa",
 "assets/images/launcher.jpeg": "4a6c6e51f986e6d47a7404572c42e159",
 "assets/images/Loadvenement.gif": "9627baf241edb820aa70797c3c2f6320",
 "assets/images/logo1.jpg": "6a6ee3d6106d4468621548d890df6c59",
 "assets/images/logoopti.jpeg": "b4d88827306b1cff6f84a40cf7bfcdd8",
 "assets/images/logoperso.jpg": "aabcabab5e87ef1a617e272c19d49def",
-"assets/images/map1.gif": "0715bac7fc1bb70cdcb2af8e76a6cffb",
 "assets/images/succes.gif": "fc998f41d034187dc7e6485e50a8e631",
-"assets/NOTICES": "e712aaf43918049819d6197da27158b9",
+"assets/NOTICES": "ca6fba884b2ef87d633352aca74b662f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
@@ -34,9 +32,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "e507dfcb56c9fe08e5fc239772086be6",
-"/": "e507dfcb56c9fe08e5fc239772086be6",
-"main.dart.js": "56829fe6d245fae8110584babaca5f34",
+"index.html": "ee83728eb1ef59ae82f9ffc3607ea59f",
+"/": "ee83728eb1ef59ae82f9ffc3607ea59f",
+"main.dart.js": "57cf369170cda5a01b8a4eb28d5de512",
 "manifest.json": "c9c6e178b1a37f4ddb356807fa7235ed",
 "version.json": "557571e6d85b35c3926caaa47ed62b39"
 };
